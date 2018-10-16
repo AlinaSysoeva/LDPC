@@ -1,0 +1,9 @@
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\bin\Debug\LDPC.exe.config
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\bin\Debug\LDPC.exe
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\bin\Debug\LDPC.pdb
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\obj\Debug\LDPC.csprojAssemblyReference.cache
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\obj\Debug\LDPC.Properties.Resources.resources
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\obj\Debug\LDPC.csproj.GenerateResource.cache
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\obj\Debug\LDPC.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\obj\Debug\LDPC.exe
+C:\Users\Alina\Downloads\LDPC.git\LDPC.git\LDPC\obj\Debug\LDPC.pdb
